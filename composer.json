@@ -8,7 +8,11 @@
     "authors": [
         {
             "name": "Marcel Tyszkiewicz",
-            "email": "myself@marcl.me"
+            "email": "marcel.tyszkiewicz@paylane.com"
+        },
+        {
+            "name": "Wojciech Petriczek",
+            "email": "wojciech.petriczek@paylane.com"
         }
     ],
     "minimum-stability": "stable",

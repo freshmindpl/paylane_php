@@ -13,7 +13,7 @@ All the code examples in the Developer Zone are based on these official REST cli
 ```json
     {
         "require": {
-            "freshmindpl/paylane_php": "~1.0.0"
+            "freshmindpl/paylane_php": "~1.0"
         }
     }
 ```

@@ -1,6 +1,9 @@
 {
-	"name": "paylane/client",
+	"name": "freshmindpl/paylane_php",
 	"description": "PayLane REST Client for PHP",
+    "keywords": ["paylane","payment","pay","gateway","merchant"],
+    "homepage": "http://devzone.paylane.com/api-guide/",
+    "type": "library",
 	"license": "MIT",
 	"authors": [
 		{
